@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6172713",
+      "name": "connection",
+      "font_class": "connection",
+      "unicode": "e851",
+      "unicode_decimal": 59473
+    },
+    {
+      "icon_id": "6988056",
+      "name": "devices-other",
+      "font_class": "devices-other",
+      "unicode": "eb72",
+      "unicode_decimal": 60274
+    },
+    {
+      "icon_id": "7239699",
+      "name": "disconnect",
+      "font_class": "disconnect",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    }
+  ]
+}
